@@ -83,7 +83,7 @@ async def start(client, message):
         
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton("🌳 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 🌳", callback_data="nimsara")
+            InlineKeyboardButton("🌼 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", callback_data="nimsara")
         ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         current_time = datetime.now(pytz.timezone(TIMEZONE))

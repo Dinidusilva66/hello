@@ -9,7 +9,7 @@ class script(object):
 
     ABOUT_TXT = """<b>🌼 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a>
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/infinityx_Lk>ᴘʏᴛʜᴏɴᴇ 3</a>
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/SinhalaSubtitles_lk>ᴘʏᴛʜᴏɴᴇ 3</a>
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>
 

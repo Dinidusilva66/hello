@@ -210,7 +210,7 @@ async def start(client, message):
                 try: f_caption=CUSTOM_FILE_CAPTION.format(mention=message.from_user.mention, file_name= '' if title is None else title, file_size='' if size is None else size, file_caption='' if f_caption is None else f_caption)
                 except: return
             return await msg.edit_caption(f_caption)
-            k = await client.send_message(chat_id = message.from_user.id, text=f"<b> ❗️ <u>ɪᴍᴘᴏʀᴛᴀɴᴛ ɴᴏᴛɪᴄᴇ</u> ❗️</b>\n\n<b>🔰 මේතන තියෙන Subtitles ගොඩක්ම තියෙන්නේ zip ෆයිල් විදියට</b>\n\n<b><i>🔰 එක නිසා ඔයලාට මේ ෆයිල්ස් Download කරගෙන Extract කරගන්න වෙනවා.</i></b>")
+            k = await client.send_message(chat_id = message.from_user.id, text=f"<b> ❗️ <u>ɪᴍᴘᴏʀᴛᴀɴᴛ ɴᴏᴛɪᴄᴇ</u> ❗️</b>\n\n<b>🌼 මේතන තියෙන Subtitles ගොඩක්ම තියෙන්නේ zip ෆයිල් විදියට</b>\n\n<b><i>☘️ එක නිසා ඔයලාට මේ ෆයිල්ස් Download කරගෙන Extract කරගන්න වෙනවා.</i></b>")
             await asyncio.sleep(600)
             await msg.delete()
         except: pass
@@ -231,10 +231,10 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🔰 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 🔰', url=f'https://t.me/infinity_Lk') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('🌼 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url=f'https://t.me/SinhalaSubtitles_lk') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )   
-    k = await client.send_message(chat_id = message.from_user.id, text=f"<b> ❗️ <u>ɪᴍᴘᴏʀᴛᴀɴᴛ ɴᴏᴛɪᴄᴇ</u> ❗️</b>\n\n<b>🔰 මේතන තියෙන Subtitles ගොඩක්ම තියෙන්නේ zip ෆයිල් විදියට</b>\n\n<b><i>🔰 එක නිසා ඔයලාට මේ ෆයිල්ස් Download කරගෙන Extract කරගන්න වෙනවා.</i></b>")
+    k = await client.send_message(chat_id = message.from_user.id, text=f"<b> ❗️ <u>ɪᴍᴘᴏʀᴛᴀɴᴛ ɴᴏᴛɪᴄᴇ</u> ❗️</b>\n\n<b>🌼 මේතන තියෙන Subtitles ගොඩක්ම තියෙන්නේ zip ෆයිල් විදියට</b>\n\n<b><i>☘️ එක නිසා ඔයලාට මේ ෆයිල්ස් Download කරගෙන Extract කරගන්න වෙනවා.</i></b>")
     await asyncio.sleep(600)
     await msg.delete()
                         

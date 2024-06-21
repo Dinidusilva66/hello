@@ -455,10 +455,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🌼 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ', url='https://t.me/SinhalaSubtitles_lk')
             ],[
-            InlineKeyboardButton('📚 ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ', 'about'),
-            InlineKeyboardButton('☘️ Oᴜʀ Gʀᴏᴜᴘ', url='https://t.me/infinityworldlk')
-            ],[                       
-            InlineKeyboardButton('📖 Hᴏᴡ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ', 'stats')
+            InlineKeyboardButton('📚 ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ', 'about')
+            ],[                   
+            InlineKeyboardButton('📖 Hᴏᴡ ᴛᴏ ᴜꜱᴇ', 'stats')
             ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')           

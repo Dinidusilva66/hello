@@ -430,7 +430,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":                        
         buttons =  [[
-            InlineKeyboardButton("🌳 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 🌳", callback_data="nimsara")
+            InlineKeyboardButton("🌼 Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ", callback_data="nimsara")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         current_time = datetime.now(pytz.timezone(TIMEZONE))
@@ -455,9 +455,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🌼 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ', url='https://t.me/SinhalaSubtitles_lk')
             ],[
-            InlineKeyboardButton('📚 ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ', 'about')
+            InlineKeyboardButton('📚 Iɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ', 'about')
             ],[                   
-            InlineKeyboardButton('📖 Hᴏᴡ ᴛᴏ ᴜꜱᴇ', 'stats')
+            InlineKeyboardButton('📖 Hᴏᴡ Tᴏ Uꜱᴇ', 'stats')
             ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')           

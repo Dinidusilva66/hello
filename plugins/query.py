@@ -453,12 +453,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
        
     elif query.data == "nimsara":
         buttons = [[
-            InlineKeyboardButton('🔰 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ  🔰', url='https://t.me/infinity_Lk')
+            InlineKeyboardButton('🌼 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ', url='https://t.me/SinhalaSubtitles_lk')
             ],[
-            InlineKeyboardButton('🌳 ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ 🌳', 'about'),
-            InlineKeyboardButton('🌳 ᴏᴜʀ ɢʀᴏᴜᴘ 🌳 ', url='https://t.me/infinityworldlk')
+            InlineKeyboardButton('📚 ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ', 'about'),
+            InlineKeyboardButton('☘️ Oᴜʀ Gʀᴏᴜᴘ', url='https://t.me/infinityworldlk')
             ],[                       
-            InlineKeyboardButton('🔰 ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ  🔰', 'stats')
+            InlineKeyboardButton('📖 Hᴏᴡ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ', 'stats')
             ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')           

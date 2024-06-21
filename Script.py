@@ -1,13 +1,13 @@
 class script(object):  
-    START_TXT = """𝖧𝖾𝗒 {}, {} 👋\n\n𝖨'𝗆 𝖲𝗂𝗇𝗁𝖺𝗅𝖺 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾𝗌 𝖫𝖪 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇𝗍 𝖦𝖾𝗍 𝖠𝗇𝗒 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾 𝖥𝗂𝗅𝖾 𝖴𝗌𝗂𝗇𝗀 𝖬𝖾.
+    START_TXT = """<b>𝖧𝖾𝗒 {}, {} 👋\n\n𝖨'𝗆 𝖲𝗂𝗇𝗁𝖺𝗅𝖺 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾𝗌 𝖫𝖪 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇𝗍 𝖦𝖾𝗍 𝖠𝗇𝗒 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾 𝖥𝗂𝗅𝖾 𝖴𝗌𝗂𝗇𝗀 𝖬𝖾. 📖</b>
 
-<a href="https://t.me/SinhalaSubtitles_lk">Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a>"""
+<b><blockquote><a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></blockquote></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Hᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ</b>"""
 
     NIMSARA_TXT = """<b> hello i'm owner </b>"""
 
-    ABOUT_TXT = """<b>🔰 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/infinityx_Lk>Aԃԃαɱʂ</a>
+    ABOUT_TXT = """<b>🌼 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a>
 
 📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/infinityx_Lk>ᴘʏᴛʜᴏɴᴇ 3</a>
 
@@ -15,17 +15,18 @@ class script(object):
 
 📡 ʜᴏꜱᴛᴇᴅ ᴏɴ: <a href=https://app.heroku.com>ʜᴇʀᴏᴋᴜ</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Nimsar_a>𝐍𝐢𝐦𝐬𝐚𝐫𝐚</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/DiniduSilva>Prime සිල්වා</a>
     
-🧬 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/infinity_Lk>ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇꜱ</a></b>"""
+🍀 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></b>
 
-    SOURCE_TXT = """<b>ᴡᴇʟᴄᴏᴍᴇ ɪɴꜰɪɴɪᴛʏ ꜱᴜʙᴛɪᴛʟᴇꜱ ʙᴏᴛ</b>
+<b><blockquote><a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></blockquote></b>"""
 
-🌳 ᴏᴜʀ ɢʀᴏᴜᴘ: <a href=https://t.me/infinityworldlk>ɪɴꜰɪɴɪᴛʏ ɢʀᴏᴜᴘ</a>
+    SOURCE_TXT = """<b>ᴡᴇʟᴄᴏᴍᴇ ꜱɪɴʜᴀʟᴀ ꜱᴜʙᴛɪᴛʟᴇꜱ ʟᴋ ʙᴏᴛ</b>
 
-🌿 ᴍᴏᴠɪᴇꜱ: <a href=https://t.me/infinity_lk>ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇꜱ</a>
 
-🔋 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='tg://settings'>ᴛʜɪꜱ ɢᴜʏ</a></b>"""
+<b>🌼 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></b>
+
+<b><blockquote><a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></blockquote></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -109,7 +110,9 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 මුලින්ම ඔයාට ඔනි File එක අපේ group එකේ Type කරන්න දැන්
 ඒ මැසේජ් එක ගෘප් එකට දාන්න ඉට පස්සේ bot ඔයලාට ඔනි සබ්
 ෆයිල් එක දෙයි ඉට පස්සේ අපේ චැන්ල් එකට ජොයින් වෙලා Try Again 
-දිලා ෆයිල් එක ගන්න තියෙන්නේ </b>"""
+දිලා ෆයිල් එක ගන්න තියෙන්නේ </b>
+
+<b><blockquote><a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></blockquote></b>"""
 
 
     ADMIN_TXT = """<b>Hᴇʟᴩ Fᴏʀ Aᴅᴍɪɴꜱ</b>"""

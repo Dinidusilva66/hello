@@ -5,7 +5,7 @@ class script(object):
 
     HELP_TXT = """<b>Hᴇʏ {} Hᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ</b>"""
 
-    NIMSARA_TXT = """<b> hello i'm owner </b>"""
+    NIMSARA_TXT = """<b> @DiniduSilva 🦕</b>"""
 
     ABOUT_TXT = """<b>🌼 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a>
 

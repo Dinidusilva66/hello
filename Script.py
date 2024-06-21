@@ -1,5 +1,7 @@
 class script(object):  
-    START_TXT = """ʜᴇʏ {}, {}\n\nʜɪ ɪ'ᴍ ɪɴꜰɪɴɪᴛʏ ᴍᴏᴠɪᴇ ʙᴏᴛ ɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴏɴ ɪɴꜰɪɴɪᴛʏ ᴄᴏᴍᴘᴀɴʏ  ꜱᴇᴀʀᴄʜ ᴀɴʏ ᴛᴠ ꜱᴇʀɪᴇꜱ & ᴍᴏᴠɪᴇ  ᴜꜱɪɴɢ ᴍᴇ.\n\nɪɴꜰɪɴɪᴛʏ ꜰᴀᴍɪʟʏ  : <a href="https://t.me/about_nimsara">Nimsara</a>"""
+    START_TXT = """𝖧𝖾𝗒 {}, {} 👋\n\n𝖨'𝗆 𝖲𝗂𝗇𝗁𝖺𝗅𝖺 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾𝗌 𝖫𝖪 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇𝗍 𝖦𝖾𝗍 𝖠𝗇𝗒 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾 𝖥𝗂𝗅𝖾 𝖴𝗌𝗂𝗇𝗀 𝖬𝖾.
+
+<a href="https://t.me/SinhalaSubtitles_lk">Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a>"""
 
     HELP_TXT = """<b>Hᴇʏ {} Hᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ</b>"""
 

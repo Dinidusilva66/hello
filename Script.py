@@ -1,5 +1,5 @@
 class script(object):  
-    START_TXT = """<b>𝖧𝖾𝗒 {} 👋\n\n𝖨'𝗆 𝖲𝗂𝗇𝗁𝖺𝗅𝖺 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾𝗌 𝖫𝖪 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖦𝖾𝗍 𝖠𝗇𝗒 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾 𝖥𝗂𝗅𝖾 𝖴𝗌𝗂𝗇𝗀 𝖬𝖾. 📖</b>
+    START_TXT = """<b>𝖧𝖾𝗒 {} 👋\n\n𝖨'𝗆 𝖲𝗂𝗇𝗁𝖺𝗅𝖺 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾𝗌 𝖫𝖪 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖦𝖾𝗍 𝖠𝗇𝗒 𝖲𝗎𝖻𝗍𝗂𝗍𝗅𝖾 𝖥𝗂𝗅𝖾 𝖴𝗌𝗂𝗇𝗀 𝖬𝖾. \n\n<blockquote>Mr.Buddy Creation</blockquote>📖</b>
 
 <b><blockquote><a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></blockquote></b>"""
 

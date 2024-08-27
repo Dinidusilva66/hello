@@ -13,8 +13,6 @@ class script(object):
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>
 
-📡 ʜᴏꜱᴛᴇᴅ ᴏɴ: <a href=https://app.heroku.com>ʜᴇʀᴏᴋᴜ</a>
-
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/DiniduSilva>Prime සිල්වා</a>
     
 🍀 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/SinhalaSubtitles_lk>Sɪɴʜᴀʟᴀ Sᴜʙᴛɪᴛʟᴇꜱ Lᴋ</a></b>
